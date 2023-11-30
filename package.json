@@ -1,0 +1,12 @@
+{
+  "name": "xetfoS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George <georgedetmering@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/GeorgeDetmering/Base_Secreta.git"
+}
